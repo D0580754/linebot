@@ -18,7 +18,7 @@ from Function import *
 app = Flask(__name__)
 
 # Channel Access Token
-line_bot_api = LineBotApi('23iML3CEP5LxbJLv1HOhsohu+tf/wExoaIm0mDCgHG61siqkS68OCH9bf3czSA+5Lh8gzfTshDnvbfkD0VJCgxiRCuD+bfhZNJbnQHLiWgZGg+ju38GOosMMcM32wMs1+xvJn1Wy7lMeiQaCYqadXwdB04t89/1O/w1cDnyilFU=')
+line_bot_api = LineBotApi('FANMVSoRHIF+5P8ITK44sUGInfRI8aAnQLP4pZXfoNrbcjAcKBTfquC13S9J/jeALh8gzfTshDnvbfkD0VJCgxiRCuD+bfhZNJbnQHLiWgbBy2HtdRI1+ATxriKc9cj4LcflWFecKPgRO6KT22jMbgdB04t89/1O/w1cDnyilFU=')
 # Channel Secret
 handler = WebhookHandler('e60354695b48b6eebe45eb9e896b1de6')
 
